@@ -62,7 +62,7 @@ history_control: # make you wiki has history version control in page
     server_link: https://github.com # recommend use GitHub https://github.com
     user: stonewiki
     repertory: stonewiki.github.io
-    branch: writing
+    branch: master
 
 # Comment
 comment:
@@ -78,9 +78,9 @@ plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
     mathjax: true # options: true, false - to enable use Mathjax in your article
-    google_analytics: # enter the tracking ID for your Google Analytics
+    google_analytics: 4624602462 # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
-    baidu_analytics: # enter Baidu Analytics hash key
+    baidu_analytics: 00bb181c28f0741cd7087dad291d7cd8 # enter Baidu Analytics hash key
     busuanzi_count: true # options: true, false - to enable busuanzi site pv statistics
 
 # Miscellaneous
